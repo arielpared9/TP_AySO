@@ -1,0 +1,98 @@
+ssh-keygen
+pwd
+ls -l
+cd .ssh
+ls -l
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCh06t8S8V5b7vU/OZLQgekzxh1N3tIuXhoqBDoZv7xG4O4olBYrqW5Iwu8aAaqSoWunCm4RELudDfSqGNyOhnfzJ/t4boVvTM87IaeyENhB9D19mSUhfgnWRp2YER4VWjmWhNRRPrAhoiaD+J8osT9yINo8qh/ZZQDr3xh7yncmZ5o/2l8tTO6ZG1oOc02xmNPsCB8xQxBU5GX1SLpTiM83ZNx+wEJ8LEyJThOGIXUw+WcU8Fnb8nwlep3mr0kUTm7SBW1YM389ZGTnSnGIwi+6oC2qDIaun/El7mRHdpKn5OgEnRxs6KYl8UG6f1XsQ9H0/mtJ3VHN1whCQPc4qBP/jKpGl/zFm6iFP1d5On6cMqAAq/IjGm8zC1CDaXVSfoYCLuR3KEqp9Wuk6eE1Z33fNib75OnqK4SYbVSc2WwWktOqYV8m87tAUhuQG0s6B5FC1kfMNOhP24WNj9JCEWx8rYIJc46RoN1kOPduRhm5aF3ozslPUn+SjMXJvzuEj0= vagrant@VMPruebas
+cat id_rsa.pub
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCh06t8S8V5b7vU/OZLQgekzxh1N3tIuXhoqBDoZv7xG4O4olBYrqW5Iwu8aAaqSoWunCm4RELudDfSqGNyOhnfzJ/t4boVvTM87IaeyENhB9D19mSUhfgnWRp2YER4VWjmWhNRRPrAhoiaD+J8osT9yINo8qh/ZZQDr3xh7yncmZ5o/2l8tTO6ZG1oOc02xmNPsCB8xQxBU5GX1SLpTiM83ZNx+wEJ8LEyJThOGIXUw+WcU8Fnb8nwlep3mr0kUTm7SBW1YM389ZGTnSnGIwi+6oC2qDIaun/El7mRHdpKn5OgEnRxs6KYl8UG6f1XsQ9H0/mtJ3VHN1whCQPc4qBP/jKpGl/zFm6iFP1d5On6cMqAAq/IjGm8zC1CDaXVSfoYCLuR3KEqp9Wuk6eE1Z33fNib75OnqK4SYbVSc2WwWktOqYV8m87tAUhuQG0s6B5FC1kfMNOhP24WNj9JCEWx8rYIJc46RoN1kOPduRhm5aF3ozslPUn+SjMXJvzuEj0= vagrant@VMPruebas
+AAAAB3NzaC1yc2EAAAADAQABAAABgQCh06t8S8V5b7vU/0ZLQgekzxh1N3tIuXhoqBDoZv7xG4040LBYrqW5Iwu8aAaq SoWunCm4RELudDfSqGNyOhnfzJ/t4boVvTM871aeyENhB9D19mSUhfgnWRp2YER4VWjmWhNRRPrAhoiaD+J8osT9yINo8qh/ZZQDr3xh7yncm
+Z50/218tT06ZG100c02xmNPSCB8xQxBU5GX1SLPTiM83ZNx+wEJ8LEYJThOGIXUw+WcU8Fnb8nwlep3mr0kUTm7SBW1YM389ZGTnSnGIwi+60C2qDIaun/El7mRHdpKn50gEnRxs6KYL8UG6f1XsQ9H0/mtJ3VHN1whCQPc4qBP/jKpGl/zFm6iFP1d50n6cMqAAq/IjGm8zC1CDa
+XVSfoYCLuR3KEqp9Wuk6eE1Z33fNib750nqK4sYbVSc2WwWkt0qYV8m87tAUhuQG0s6B5FC1kfMNOHP24WNj9JCEWx8rYIJc46RoN1k0PduRhm5aF3ozslPUn+SjMXJvzuĒj0= vagrant@VMPruebas
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCh06t8S8V5b7vU/0ZLQgekzxh1N3tIuXhoqBDoZv7xG4040LBYrqW5Iwu8aAaq SoWunCm4RELudDfSqGNyOhnfzJ/t4boVvTM871aeyENhB9D19mSUhfgnWRp2YER4VWjmWhNRRPrAhoiaD+J8osT9yINo8qh/ZZQDr3xh7yncm
+Z50/218tT06ZG100c02xmNPSCB8xQxBU5GX1SLPTiM83ZNx+wEJ8LEYJThOGIXUw+WcU8Fnb8nwlep3mr0kUTm7SBW1YM389ZGTnSnGIwi+60C2qDIaun/El7mRHdpKn50gEnRxs6KYL8UG6f1XsQ9H0/mtJ3VHN1whCQPc4qBP/jKpGl/zFm6iFP1d50n6cMqAAq/IjGm8zC1CDa
+XVSfoYCLuR3KEqp9Wuk6eE1Z33fNib750nqK4sYbVSc2WwWkt0qYV8m87tAUhuQG0s6B5FC1kfMNOHP24WNj9JCEWx8rYIJc46RoN1k0PduRhm5aF3ozslPUn+SjMXJvzuĒj0= vagrant@VMPruebas
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCh06t8S8V5b7vU/0ZLQgekzxh1N3tIuXhoqBDoZv7xG4040LBYrqW5Iwu8aAaq SoWunCm4RELudDfSqGNyOhnfzJ/t4boVvTM871aeyENhB9D19mSUhfgnWRp2YER4VWjmWhNRRPrAhoiaD+J8osT9yINo8qh/ZZQDr3xh7yncm
+Z50/218tT06ZG100c02xmNPSCB8xQxBU5GX1SLPTiM83ZNx+wEJ8LEYJThOGIXUw+WcU8Fnb8nwlep3mr0kUTm7SBW1YM389ZGTnSnGIwi+60C2qDIaun/El7mRHdpKn50gEnRxs6KYL8UG6f1XsQ9H0/mtJ3VHN1whCQPc4qBP/jKpGl/zFm6iFP1d50n6cMqAAq/IjGm8zC1CDaXVSfoYCLuR3KEqp9Wuk6eE1Z33fNib750nqK4sYbVSc2WwWkt0qYV8m87tAUhuQG0s6B5FC1kfMNOHP24WNj9JCEWx8rYIJc46RoN1k0PduRhm5aF3ozslPUn+SjMXJvzuĒj0= vagrant@VMPruebas
+ls -l
+cd repogit
+ls -l
+cd TP_AySO/
+ssh-keygen
+ls -l
+cd repogit
+ls -l
+git clone git@github.com:arielpared9/TP_AySO.git
+yes
+ls -l
+ssh-keygen
+pwd
+ls -l
+.ssh
+cd .ssh
+ls -l
+ls -la
+cat id_rsa.pub
+ls -l
+cd repogit
+ls -l
+cd TP_AySO/
+pwd
+cd
+cd repogit
+git clone git@github.com:arielpared9/TP_AySO.git
+cd TP_AySO/
+pdw
+pwd
+ls -l
+cat /etc/mtab
+man grep
+grep SYSFS /etc/mtab
+grep home_url/etc/os-release
+grep home_url /etc/os-release
+grep -i Sysfs /etc/mtab
+grep -i Sysfs /etc/mtab > datos_sys.txt
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git congif --global user.email "Arielpared9@gmail.com"
+git config --global user.email "Arielpared9@gmail.com"
+git config --global user.name "arielpared9"
+git commit -m "ADD: Agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "$(whoami):" /etc/passwd | awk -F: '{print "Comentario="$5"\nHome="$6}´
+grep "$(whoami):" /etc/passwd | awk -F: '{print "Comentario="$5"\nHome="$6}´ >> datos_usuario.txt
+grep "$(whoami):" /etc/passwd | awk -F: '{print "Comentario="$5"\nHome="$6}'
+grep "$(whoami):" /etc/passwd | awk -F: '{print "Comentario="$5"\nHome="$6}' >> datos_usuario.txt
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: Añadiendo informacion del usuario"
+git push
+cat <<EOF > README.md
+Alumno: Damian Ariel Pared
+Division: 115
+Turno: Mañana
+EOF
+
+git add README.md datos_usuarios.txt
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo readme y datos de usuario" 
+git push
+mkdir -p $HOME/TP1/Clase{1..5},so/Clase{1..6}
+echo mkdir -p $HOME/TP1/Clase{1..5},so/Clase{1..6} >> script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+chmod 777 script_dir.sh
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+Historial_comandos_Pared.txt
+"Historial_comandos_Pared.txt"
+history -a
