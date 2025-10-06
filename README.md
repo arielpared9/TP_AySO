@@ -1,2 +1,3 @@
-# TP_AySO
-TP 1 ARQ Y SISTEMAS OPERATIVOS 2025
+Alumno: Damian Ariel Pared
+Division: 115
+Turno: Mañana
